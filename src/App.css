@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+li {
+  display: inline;
+}
+
+.marked {
+  text-decoration: line-through;
+}
+
+span {
+  margin-right: 5px;
+}
+.firstSpan {
+  color: red;
+}
